@@ -1,0 +1,68 @@
+
+.cars{
+    margin-top:8%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.inputt{
+    margin-bottom: 4%;
+}
+.search button{
+    font-size: 20px;
+}
+.search .deals{
+    margin-top: 2%;
+}
+.search .deals button{
+    padding: 12px;
+    color: #1572D3;
+    background-color:#1572d31a;
+    border: 1px solid #1572d31a;
+    border-radius: 12px;
+}
+.cars .deals button{
+    background-color: #1572d31a;
+    color: #0b5ed7;
+    border: 1px solid #1572d31a;
+    padding: 5px 20px;
+    margin-bottom: 1%;
+}
+
+.cars h3{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.cars h4{
+    margin-top: 16px;
+}
+.cars .container .row .col-md-3{
+    border: 1px solid #e9ecef;
+}
+.carsone{
+    background-color: white;
+    margin: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 4%;
+}
+.cars .d-flex{
+    justify-content: space-between !important;
+    display: flex;
+    padding-bottom: 20px;
+}
+.cars small{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6c757d;
+}
+.cars span{
+    color: #000;
+}
+.cars .bbtn{
+    text-align: center;
+    margin-top: 4%;
+}
+.cars .carsone .col-md-6{
+    padding-bottom: 20px;
+}

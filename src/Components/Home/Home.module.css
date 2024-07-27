@@ -1,0 +1,236 @@
+.navbarr{
+    margin: 20px;
+}
+ul{
+    margin-left: 20%;
+}
+ul li{
+    font-size: 18px;
+    font-weight: 500;
+    color: #484848;
+    padding-right: 20px;
+
+}
+.navbarr button{
+    font-size: 18px;
+    font-weight: 400;
+}
+.partone h3{
+    padding-top: 30%;
+    font-size: 45px;
+    font-weight: bold;
+    color: #000;
+}
+.partone h3 span{
+    color: #1572D3;
+}
+.partone p{
+    font-size: 21px;
+    font-weight: 400;
+    color: #484848;
+}
+.partone .img1{
+    background-image: url(../../assets/images/part1/Frame.png);
+}
+.partone img{
+    animation-name: move;
+    animation-duration: 1s;
+    vertical-align: middle;
+    max-width: 100%;
+}
+@keyframes move {
+    0% {
+    transform: translateY(-100px);
+    }
+    100% {
+    transform: translateY(0px);
+    }}
+.search button{
+    font-size: 20px;
+}
+.search .deals{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+.search .deals button{
+    padding: 12px;
+    color: #1572D3;
+    background-color:#1572d31a;
+    border: 1px solid #1572d31a;
+    border-radius: 12px;
+}
+.cars{
+    margin-top:8%;
+    text-align: left;
+}
+.cars h3{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.cars h4{
+    margin-top: 16px;
+}
+.cars .container .row .col-md-3{
+    border: 1px solid #e9ecef;
+}
+.carsone{
+    background-color: white;
+    margin: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.cars .d-flex{
+    justify-content: space-between !important;
+    display: flex;
+    padding-bottom: 20px;
+}
+.cars small{
+    font-size: 16px;
+    font-weight: 400;
+    color: #6c757d;
+}
+.cars span{
+    color: #000;
+}
+.cars .bbtn{
+    text-align: center;
+    margin-top: 4%;
+}
+.cars .carsone .col-md-6{
+    padding-bottom: 20px;
+}
+.pad{
+    margin-bottom: 3%;
+}
+.searchbtn{
+    text-align: center;
+    margin-top: 4%;
+}
+.mostpop{
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+.mostpop h3{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.mostpop h4{
+    font-size: 26px;
+}
+.mostpop{
+    font-size: 19px;
+}
+.images{
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+.images img{
+    max-width: 100%;
+}
+.choose{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+.choose img{
+    max-width: 100%;
+}
+.choose .choosecar{
+    background-image: url(../../assets/images/landing-page/sec-5/Vector.png);
+}
+.choose button{
+    background-color: #1572d31a;
+    color: #0b5ed7;
+    border: 1px solid #1572d31a;
+    padding: 5px 20px;
+    margin-bottom: 4%;
+}
+.choose h3{
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+.choose .choosecard{
+    margin-bottom: 2%;
+}
+.choose .choosecard .article{
+    margin-left: 4%;
+}
+.choose .choosecard .article h6{
+    font-size: 19px;
+}
+.choose .choosecard .article p{
+    font-size: 18px;
+    color: #212529;
+}
+
+.part6{
+    background-image: url(../../assets/images/landing-page/sec-6/bg-sec6.png);
+    background-size: cover;
+    padding-top: 2%;
+}
+.part6 .part6btn{
+    text-align: center;
+}
+.part6 button{
+    background-color: #1572d31a;
+    color: #0b5ed7;
+    border: 1px solid #1572d31a;
+    padding: 5px 20px;
+    margin-bottom: 4%;
+}
+.part6 h3{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.part6 .card{
+    text-align: left;
+}
+.part6 img{
+    max-width: 100%;
+}
+.part6 h4{
+    font-size: 30px;
+}
+.download{
+    margin-top: 4%;
+}
+.download h3{
+    font-size: 45px;
+}
+.download span{
+    color: #0b5ed7;
+}
+.download p{
+    color: #6c757d;
+    font-size: 18px;
+}
+.download .downloadimg{
+    margin-left: 4%;
+    margin-bottom: 4%;
+}
+.download input{
+    height: 50px;
+    min-width: 200px;
+    background-color: #cedcff;
+    border: 1px solid #cedcff;
+    border-radius: 12px;
+}
+.download img{
+    max-width: 100%;
+}
+.footer{
+    background-color: #051C34;
+    color: #f8f9fa;
+    padding-top: 0%;
+    padding: 3%;
+}
+.footer .footerpt{
+    margin-bottom: 4%;
+}
+.footer .part1foot{
+    margin-top: 10%;
+}

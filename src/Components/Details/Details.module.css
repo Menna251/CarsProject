@@ -1,0 +1,37 @@
+.details{
+    margin-top: 12%;
+}
+@keyframes move {
+    0% {
+    transform: translateY(-100px);
+    }
+    100% {
+    transform: translateY(0px);
+    }}
+.details .carimg{
+    background-image: url(../../assets/images/landing-page/sec-5/Vector.png);
+    background-size: cover;
+    animation-name: move;
+    animation-duration: 1s;
+    vertical-align: middle;
+    max-width: 100%;
+}
+.details .part2{
+    margin-left: 4%;
+}
+.details button{
+    background-color: #1572d31a;
+    color: #0b5ed7;
+    border: 1px solid #1572d31a;
+    padding: 5px 20px;
+    margin-bottom: 4%;
+}
+.details h4{
+    font-size: 26px;
+    margin-bottom: 4%;
+}
+.details p{
+    margin-bottom: 3%;
+    font-size: 20px;
+    color: #6c757d;
+}
